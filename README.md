@@ -1,46 +1,61 @@
-# 🎮 BetaTesterArena.com
+# 🎮 Beta Tester Arena
 
-**Free beta testing platform for indie game developers.**
+**The free platform where indie game developers get real beta testers.**
 
-🌐 **Live Site:** https://betatesterarena.com
+🔗 **Live site:** [betatesterarena.com](https://betatesterarena.com)
 
 ---
 
-## What is BetaTesterArena?
+## What is Beta Tester Arena?
 
-BetaTesterArena connects indie game developers with real beta testers — for free.
+Beta Tester Arena is a high-trust ecosystem for indie game creators and passionate testers. Submit your game, get structured feedback, and build a reputation — all completely free.
 
-- **Developers** submit their games and get structured feedback from real players
-- **Testers** earn reputation scores and leaderboard rankings for quality feedback
-- **Everyone** benefits from a better indie game ecosystem
+### For Game Creators
+- ✅ Submit your game for free (always free, no gatekeeping)
+- ✅ Reach hundreds of active testers instantly
+- ✅ Get structured, actionable feedback
+- ✅ Track tester engagement with leaderboards
 
-## 🕹️ Games Currently in Open Beta
+### For Testers
+- 🎯 Play unreleased indie games before anyone else
+- 🏆 Build your tester reputation and climb the leaderboard
+- 💬 Your feedback shapes real games
+- 🎖️ Top testers get featured and rewarded
 
-| Game | Genre | Status |
-|------|-------|--------|
-| Helicopter Assault Chaos | Arcade Shooter | ✅ Open Beta |
-| Helicopter Assault Basic | Arcade Shooter | ✅ Open Beta |
-| Highway Havoc | Road Dodger | ✅ Open Beta |
+---
 
-## 💰 Pricing
+## 🕹️ Games Currently Live
 
-- **Core features:** Always free for devs and testers
-- **Creator Pro:** $19/mo — advanced analytics, priority listing
-- **Tester Pro:** $4.99/mo — exclusive missions, bonus rewards
-- **Featured Listing:** $29/mo — homepage placement
+| Game | Creator | Status |
+|------|---------|--------|
+| [Helicopter Assault Chaos](https://betatesterarena.com) | Benzene Ink | 🟢 Open Beta |
+| [Helicopter Assault Basic](https://betatesterarena.com) | Benzene Ink | 🟢 Open Beta |
+| [Highway Havoc](https://betatesterarena.com) | Benzene Ink | 🟢 Open Beta |
+
+---
+
+## 🚀 Get Started
+
+**Submit your game:** [betatesterarena.com/submit-beta](https://betatesterarena.com/submit-beta)
+
+**Start testing:** [betatesterarena.com/explore](https://betatesterarena.com/explore)
+
+---
+
+## 📊 Platform Stats
+
+- 1,200+ projects submitted
+- 28,500+ registered testers
+- 94,000+ pieces of feedback delivered
+
+---
 
 ## 🔗 Links
 
-- 🌐 Website: https://betatesterarena.com
-- 📧 Contact: jimmybenzene37@gmail.com
-- 🏢 Studio: [Benzene Ink](https://github.com/jimmybenzene37)
-
-## 🛠️ Built With
-
-- Base44 (platform infrastructure)
-- Browser-native games (no install required)
-- Stripe (payments)
+- 🌐 Website: [betatesterarena.com](https://betatesterarena.com)
+- 📋 Leaderboard: [betatesterarena.com/leaderboard](https://betatesterarena.com/leaderboard)
+- 🏆 Missions: [betatesterarena.com/missions](https://betatesterarena.com/missions)
 
 ---
 
-*Made with ❤️ by Benzene Ink*
+*Built with ❤️ by [Jimmy Benzene](https://github.com/jimmybenzene37)*
